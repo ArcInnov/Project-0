@@ -81,4 +81,11 @@ gh repo -- manual
 git commands -- git --help
 
 
+<!-- build focus 14 of 11 -->
 
+Had to config username and email
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+<!-- build focus 15 of 11 -->
+Git fetch? his command will update the origin branches in the local snapshot
